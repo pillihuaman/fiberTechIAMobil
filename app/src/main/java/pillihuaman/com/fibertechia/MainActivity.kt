@@ -29,6 +29,7 @@ import pillihuaman.com.fibertechia.common.RetrofitClient
 import pillihuaman.com.fibertechia.inteface.AuthRepository
 import pillihuaman.com.fibertechia.process.camera.PhotoCaptureScreen
 import pillihuaman.com.fibertechia.util.AppLogger
+import android.Manifest
 
 class MainActivity : ComponentActivity() {
 
